@@ -1,0 +1,3 @@
+/Users/osmanbatuhankalkan/Desktop/Cok_Boyutlu_Arama/cmake-build-debug/CMakeFiles/Cok_Boyutlu_Arama.dir
+/Users/osmanbatuhankalkan/Desktop/Cok_Boyutlu_Arama/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/osmanbatuhankalkan/Desktop/Cok_Boyutlu_Arama/cmake-build-debug/CMakeFiles/rebuild_cache.dir
